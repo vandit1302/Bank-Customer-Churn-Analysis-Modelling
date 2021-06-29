@@ -13,6 +13,13 @@ Dataset: [Kaggle](https://www.kaggle.com/adammaus/predicting-churn-for-bank-cust
 * Deep Learning models - Artificial Neural Network (ANN)
 * Stochastic Gradient Descent algorithm implementation to optimize accuracy of ANN and Logistic Regression models
 
+## 📄 Results
+
+![image](https://user-images.githubusercontent.com/46895613/123748681-24f99400-d8d2-11eb-98a0-f8c567d47bc5.png)
+
+![image](https://user-images.githubusercontent.com/46895613/123748701-2aef7500-d8d2-11eb-93b0-7c67878e0d61.png)
+
+
 ## Contributions
 
 Contributions are welcome.
